@@ -1,4 +1,4 @@
-class salario (){
+class Salario (){
     fun aumentoSalario(){
         println("Digite o seu sálario: ")
         val salari = readln()

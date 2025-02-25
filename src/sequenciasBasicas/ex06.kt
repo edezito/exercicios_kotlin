@@ -1,4 +1,4 @@
-class numeros(){
+class num(){
     fun antSucessor(){
         println("Digite um número: ")
         val n = readln()

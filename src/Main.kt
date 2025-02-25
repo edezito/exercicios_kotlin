@@ -1,4 +1,6 @@
+import seuNome
 fun main(){
-    val sequenciasBasicas = exercicios()
-    sequenciasBasicas.sequencias_basicas()
+    olaMundo().ola()
+    seuNome().nome()
+    funcionario().dadosFuncionario()
 }
