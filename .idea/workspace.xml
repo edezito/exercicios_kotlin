@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e83add03-4d05-4719-8eb0-471fcf2578e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/condicoesBasicas/ex17.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/condicoesBasicas/ex18.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex02.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex03.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex04.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex04.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex05.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex05.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex06.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex06.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex07.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex07.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex08.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex08.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex09.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex09.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex10.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex11.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex12.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex13.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex14.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex15.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex16.kt" afterDir="false" />
-    </list>
+    <list default="true" id="e83add03-4d05-4719-8eb0-471fcf2578e3" name="Changes" comment="condicoes basicas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,12 +26,12 @@
     &quot;assignee&quot;: &quot;edezito&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/edezito/exercicios_kotlin.git&quot;,
-    &quot;accountId&quot;: &quot;74108a29-0c25-40b0-8719-ed80def67ad3&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/edezito/exercicios_kotlin.git",
+    "accountId": "8b3384ed-7285-4842-8e3e-cd18be9e08ec"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -98,9 +76,22 @@
       <updated>1740266994658</updated>
       <workItem from="1740443673513" duration="944000" />
     </task>
+    <task id="LOCAL-00001" summary="condicoes basicas">
+      <option name="closed" value="true" />
+      <created>1741205331491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741205331491</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="condicoes basicas" />
+    <option name="LAST_COMMIT_MESSAGE" value="condicoes basicas" />
   </component>
 </project>
