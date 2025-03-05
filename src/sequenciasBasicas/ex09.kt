@@ -6,3 +6,7 @@ class carteira (){
         println("Você tem $dol em Doláres")
     }
 }
+
+fun main(){
+    carteira().carteiraReais()
+}

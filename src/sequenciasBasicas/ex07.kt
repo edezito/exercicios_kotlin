@@ -7,3 +7,7 @@ class numeros(){
         println("O dobro de $nat é $dobro e a sua terça parte é $terc")
     }
 }
+
+fun main(){
+    numeros().numerosNatural()
+}

@@ -5,3 +5,7 @@ class seuNome (){
         println("Olá $nome seja bem vindo!")
     }
 }
+
+fun main(){
+    seuNome().nome()
+}

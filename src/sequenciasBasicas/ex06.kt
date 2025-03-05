@@ -7,3 +7,8 @@ class num(){
         println("O sucessor de $n é $suc e, o antecessor é $ant")
     }
 }
+
+fun main(){
+    num().antSucessor()
+}
+

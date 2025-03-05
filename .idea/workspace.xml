@@ -5,12 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e83add03-4d05-4719-8eb0-471fcf2578e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/condicoesBasicas/ex17.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicoesBasicas/ex18.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex02.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex03.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex04.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex04.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex05.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex05.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex06.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex06.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex07.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex07.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex08.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex08.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex09.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex09.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex12.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex13.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex14.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex15.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sequenciasBasicas/ex16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequenciasBasicas/ex16.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,33 +42,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "edezito"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;edezito&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/edezito/exercicios_kotlin.git",
-    "accountId": "74108a29-0c25-40b0-8719-ed80def67ad3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/edezito/exercicios_kotlin.git&quot;,
+    &quot;accountId&quot;: &quot;74108a29-0c25-40b0-8719-ed80def67ad3&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2tPwPTmRoeeuLOxESAcj1lNUVJ5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Ex16Kt.executor": "Run",
+    "Kotlin.Ex17Kt.executor": "Run",
+    "Kotlin.Ex18Kt.executor": "Run",
+    "Kotlin.Ex19Kt.executor": "Run",
+    "Kotlin.Ex20Kt.executor": "Run",
+    "Kotlin.Ex22Kt.executor": "Run",
+    "Kotlin.Ex23Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ederd/.vscode/estudos/3ºsemestre/kotlin/lista_exercicios/exercicios_kotlin",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,14 +88,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

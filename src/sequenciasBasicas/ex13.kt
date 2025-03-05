@@ -6,3 +6,7 @@ class Salario (){
         println("Seu salário com o aumento é $aumento")
     }
 }
+
+fun main(){
+    Salario().aumentoSalario()
+}

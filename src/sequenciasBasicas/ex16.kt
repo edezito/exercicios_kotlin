@@ -14,3 +14,6 @@ class cigaro(){
         println("Você perdeu aproximadamente $diasPerdidos dias de vida devido ao tabagismo.")
     }
     }
+fun main(){
+    cigaro().cigarrosFumados()
+}

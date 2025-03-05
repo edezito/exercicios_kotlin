@@ -8,3 +8,7 @@ class calculo (){
         print("O delta desses valores é $delta")
     }
 }
+
+fun main(){
+    calculo().calculoDelta()
+}

@@ -4,3 +4,6 @@ class olaMundo (){
     }
 }
 
+fun main (){
+    olaMundo().ola()
+}

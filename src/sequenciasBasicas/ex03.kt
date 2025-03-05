@@ -7,3 +7,7 @@ class funcionario (){
         println("Prezado $funcionario tem um sálario de R$ $salario em Junho.")
     }
 }
+
+fun main(){
+    funcionario().dadosFuncionario()
+}

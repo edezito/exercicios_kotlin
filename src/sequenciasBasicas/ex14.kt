@@ -8,3 +8,7 @@ class aluguel(){
         println("Crédito em aberto com a locadora: $preco_rodagem R$")
     }
 }
+
+fun main(){
+    aluguel().aluguelCarro()
+}

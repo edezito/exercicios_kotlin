@@ -9,3 +9,7 @@ class area(){
         println("Sua parede tem $area m² e precisa de $tinta litros de tinta para pintar")
     }
 }
+
+fun main(){
+    area().medirArea()
+}

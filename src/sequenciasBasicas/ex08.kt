@@ -17,3 +17,7 @@ class distancia (){
                 "$mm mm")
     }
 }
+
+fun main(){
+    distancia().distanciaMetros()
+}

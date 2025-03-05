@@ -6,3 +6,7 @@ class preco (){
         println("O preço promocional é $desconto")
     }
 }
+
+fun main(){
+    preco().precoPromocional()
+}

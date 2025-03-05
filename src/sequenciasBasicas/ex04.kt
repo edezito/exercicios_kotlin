@@ -7,3 +7,7 @@ class numerosInteiros(){
         println("A soma de $num1 e $num2 é igual a $sum.")
     }
 }
+
+fun main (){
+    numerosInteiros().numeros()
+}

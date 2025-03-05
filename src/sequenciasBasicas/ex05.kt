@@ -7,3 +7,7 @@ class notas(){
         println("A média entre $nota1 e $nota2 é igual a $med")
     }
 }
+
+fun main (){
+    notas().notasAlunos()
+}

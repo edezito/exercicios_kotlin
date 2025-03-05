@@ -1,4 +1,4 @@
-class salario(){
+class pag(){
     fun diasTrabalhado(){
         println("Dias trabalhados: ")
         val dias_trabalhados = readln()
@@ -6,4 +6,8 @@ class salario(){
         val pagamento = dia_preco * dias_trabalhados.toInt()
         println("Sálario: $pagamento R$")
     }
+}
+
+fun main(){
+    pag().diasTrabalhado()
 }
