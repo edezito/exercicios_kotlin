@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e83add03-4d05-4719-8eb0-471fcf2578e3" name="Changes" comment="condicoes basicas" />
+    <list default="true" id="e83add03-4d05-4719-8eb0-471fcf2578e3" name="Changes" comment="condicoes basicas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -26,12 +29,12 @@
     &quot;assignee&quot;: &quot;edezito&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/edezito/exercicios_kotlin.git",
-    "accountId": "8b3384ed-7285-4842-8e3e-cd18be9e08ec"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/edezito/exercicios_kotlin.git&quot;,
+    &quot;accountId&quot;: &quot;8b3384ed-7285-4842-8e3e-cd18be9e08ec&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -52,6 +55,17 @@
     "Kotlin.Ex20Kt.executor": "Run",
     "Kotlin.Ex22Kt.executor": "Run",
     "Kotlin.Ex23Kt.executor": "Run",
+    "Kotlin.Ex26Kt.executor": "Run",
+    "Kotlin.Ex27Kt.executor": "Run",
+    "Kotlin.Ex28Kt.executor": "Run",
+    "Kotlin.Ex29Kt.executor": "Run",
+    "Kotlin.Ex30Kt.executor": "Run",
+    "Kotlin.Ex31Kt.executor": "Run",
+    "Kotlin.Ex33Kt.executor": "Run",
+    "Kotlin.Ex39Kt.executor": "Run",
+    "Kotlin.Ex40Kt.executor": "Run",
+    "Kotlin.Ex41Kt.executor": "Run",
+    "Kotlin.Ex42Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -84,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741205331491</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="condicoes basicas">
+      <option name="closed" value="true" />
+      <created>1741205653860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741205653860</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
